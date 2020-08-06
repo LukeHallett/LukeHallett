@@ -2,9 +2,8 @@
 Welcome to my GitHub. I have no idea why you are here.
 
 ## About Me
-🔭 I’m currently working on [voxtl.tv](https://voxtl.tv)
-
-🌱 I’m currently learning Go and Nuxt.js
+🔭 I’m currently working on [voxtl.tv](https://voxtl.tv) 
+🌱 I’m currently learning Go and Nuxt.js 
 
 ## Stats For Nerds
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true" />
