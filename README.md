@@ -3,6 +3,7 @@ Welcome to my GitHub. I have no idea why you are here.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
