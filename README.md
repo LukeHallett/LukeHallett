@@ -1,10 +1,20 @@
-### Hi there 👋
+### Hi There 👋
 Welcome to my GitHub. I have no idea why you are here.
+
+## About Me
+🔭 I’m currently working on [voxtl.tv](https://voxtl.tv)
+🌱 I’m currently learning Go and Nuxt.js
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 <!--
