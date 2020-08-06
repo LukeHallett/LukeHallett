@@ -5,10 +5,7 @@ Welcome to my GitHub. I have no idea why you are here.
 🔭 I’m currently working on [voxtl.tv](https://voxtl.tv)
 🌱 I’m currently learning Go and Nuxt.js
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact)
-
+## Stats For Nerds
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact" />
 
