@@ -7,7 +7,7 @@ Welcome to my GitHub. I have no idea why you are here.
 
 ## Stats For Nerds
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact" />
 
 
 <!--
