@@ -1,4 +1,10 @@
 ### Hi there 👋
+Welcome to my GitHub. I have no idea why you are here.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true)
+
+
+
 
 <!--
 **LukeHallett/LukeHallett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
