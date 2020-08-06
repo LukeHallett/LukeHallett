@@ -6,8 +6,8 @@ Welcome to my GitHub. I have no idea why you are here.
 🌱 I’m currently learning Go and Nuxt.js  
 
 ## Stats For Nerds
-[Profile Stats](https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true)
-[Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=LukeHallett&show_icons=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeHallett&layout=compact)
 
 <!--
 **LukeHallett/LukeHallett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
